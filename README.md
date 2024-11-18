@@ -1,7 +1,7 @@
 # Text Generation with IMDB Reviews
 
 ## Project Overview
-This assignment focuses on natural language generation techniques using Python. The project covers a range of text generation methods, including generating random text based on word frequencies, building Markov chains for sequence generation, and using GPT-2 for text completion tasks. I worked with the IMDB movie reviews dataset to build frequency-based and Markov chain models, and then explore the pre-trained GPT-2 language model for creative text generation.
+This assignment focuses on natural language generation techniques using Python. The project covers a range of text generation methods, including generating random text based on word frequencies, building Markov chains for sequence generation, and using GPT-2 for text completion tasks. I worked with the IMDB movie reviews dataset to build frequency-based and Markov chain models, and then explored the pre-trained GPT-2 language model for creative text generation.
 
 ## Steps Completed
 
